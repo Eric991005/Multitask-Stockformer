@@ -8,7 +8,7 @@ This paper, titled "Research on a Stock Selection Model Based on Wavelet Transfo
 ## Original Dataset and Sub-Datasets After Partition
 Due to the large size of both the original data (which contains 360 price and volume factors) and the processed data (which also contains 360 factors), the author has stored them on a cloud drive for readers to use. The folder `Stock_CN_2018-03-01_2024-03-01` contains the original data, while other folders hold the processed sub-datasets.
 
-Original data link: [raw_data]()
+Original data link: [raw_data](https://pan.baidu.com/s/1dnmzt9F2Ug9bCQDZwZ2e4Q?pwd=ykqp)
 
 There are a total of 14 sub-datasets after processing, providing data support for backtesting over different time periods. The detailed contents of these datasets are as follows:
 

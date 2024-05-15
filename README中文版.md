@@ -9,7 +9,7 @@
 ## 原始数据集和划分后的子数据集
 由于原始数据（包含360个量价因子）和处理后数据（包含360个量价因子）较大，作者已将其存储在云盘中，供读者使用，其中，`Stock_CN_2018-03-01_2024-03-01`为原始数据，其余文件夹为处理后子数据集。
 
-原始数据链接： [raw_data](https://drive.google.com/drive/folders/1V-qq2NtCV0T4ULgYLI05Ev8g5ntoC3io?usp=sharing)
+原始数据链接： [raw_data](https://pan.baidu.com/s/1dnmzt9F2Ug9bCQDZwZ2e4Q?pwd=ykqp)
 
 处理后总共有14个子数据集，为不同的时间段的回测提供相应的数据支持，详细的数据内容如下所示：
 
