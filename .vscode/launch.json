@@ -1,0 +1,25 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+          {
+            "name": "Multitask_Stockformer",
+            "type": "debugpy",
+            "request": "launch",
+            // Note to modify the path
+            "program": "/root/autodl-tmp/Stockformer_upload/MultiTask_Stockformer_train.py",
+            "console": "integratedTerminal",
+            "env": {
+              "PYTHONPATH": "${workspaceFolder}",
+              "CONDA_DEFAULT_ENV": "base"
+            },
+            // Note to modify the path
+            "python": "/root/miniconda3/bin/python3.8",
+            "args": [
+              "--config",
+              "./config/Multitask_Stock.conf"
+            ],
+            "cwd": "/root/autodl-tmp/Stockformer_upload"
+          }
+          
+    ]
+}

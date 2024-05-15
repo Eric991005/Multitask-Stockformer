@@ -1,0 +1,422 @@
+Folder created: /root/autodl-tmp/Stockformer/Stockformer_run/Stockformer_code/runs/Multitask_Stockformer/Stock_CN_2020-12-02_2023-08-02
+Subfolder created: /root/autodl-tmp/Stockformer/Stockformer_run/Stockformer_code/runs/Multitask_Stockformer/Stock_CN_2020-12-02_2023-08-02/version0
+loading data....
+loading end....
+constructing model begin....
+constructing model end....
+training begin....
+epoch 1, lr 0.001000, loss 1.5305, time 13.2 sec
+step 1, acc: 0.5303, mae: 0.0281, rmse: 0.0360, mape: 0.3302
+step 2, acc: 0.4727, mae: 0.0335, rmse: 0.0404, mape: 0.5792
+average, acc: 0.5015, mae: 0.0308, rmse: 0.0382, mape: 0.4547
+Epoch 1: New best mae: 0.0308, Model saved.
+epoch 2, lr 0.001000, loss 1.4272, time 12.9 sec
+step 1, acc: 0.5145, mae: 0.0314, rmse: 0.0395, mape: 0.5210
+step 2, acc: 0.5278, mae: 0.0162, rmse: 0.0231, mape: 0.3643
+average, acc: 0.5211, mae: 0.0238, rmse: 0.0313, mape: 0.4426
+Epoch 2: New best mae: 0.0238, Model saved.
+epoch 3, lr 0.001000, loss 1.4206, time 12.8 sec
+step 1, acc: 0.5262, mae: 0.0166, rmse: 0.0232, mape: 0.1521
+step 2, acc: 0.5278, mae: 0.0176, rmse: 0.0249, mape: 0.7363
+average, acc: 0.5270, mae: 0.0171, rmse: 0.0241, mape: 0.4442
+Epoch 3: New best mae: 0.0171, Model saved.
+epoch 4, lr 0.001000, loss 1.4111, time 12.8 sec
+step 1, acc: 0.4830, mae: 0.0180, rmse: 0.0236, mape: -0.5479
+step 2, acc: 0.5278, mae: 0.0255, rmse: 0.0320, mape: 1.0436
+average, acc: 0.5054, mae: 0.0217, rmse: 0.0278, mape: 0.2478
+epoch 5, lr 0.001000, loss 1.4038, time 13.0 sec
+step 1, acc: 0.5260, mae: 0.0179, rmse: 0.0249, mape: 0.8202
+step 2, acc: 0.5277, mae: 0.0172, rmse: 0.0243, mape: 0.7701
+average, acc: 0.5269, mae: 0.0175, rmse: 0.0246, mape: 0.7952
+epoch 6, lr 0.001000, loss 1.3978, time 13.6 sec
+step 1, acc: 0.5081, mae: 0.0225, rmse: 0.0292, mape: 0.9865
+step 2, acc: 0.5165, mae: 0.0232, rmse: 0.0298, mape: 1.0065
+average, acc: 0.5123, mae: 0.0228, rmse: 0.0295, mape: 0.9965
+epoch 7, lr 0.001000, loss 1.3971, time 12.9 sec
+step 1, acc: 0.5256, mae: 0.0200, rmse: 0.0251, mape: -0.7713
+step 2, acc: 0.5245, mae: 0.0198, rmse: 0.0248, mape: -0.7383
+average, acc: 0.5250, mae: 0.0199, rmse: 0.0249, mape: -0.7548
+epoch 8, lr 0.001000, loss 1.3913, time 13.1 sec
+step 1, acc: 0.5032, mae: 0.0165, rmse: 0.0235, mape: 0.3405
+step 2, acc: 0.5086, mae: 0.0172, rmse: 0.0245, mape: 0.5256
+average, acc: 0.5059, mae: 0.0168, rmse: 0.0240, mape: 0.4331
+Epoch 8: New best mae: 0.0168, Model saved.
+epoch 9, lr 0.001000, loss 1.3966, time 13.2 sec
+step 1, acc: 0.4995, mae: 0.0161, rmse: 0.0221, mape: -0.4418
+step 2, acc: 0.5057, mae: 0.0165, rmse: 0.0224, mape: -0.4607
+average, acc: 0.5026, mae: 0.0163, rmse: 0.0222, mape: -0.4512
+Epoch 9: New best mae: 0.0163, Model saved.
+epoch 10, lr 0.001000, loss 1.3842, time 13.9 sec
+step 1, acc: 0.5059, mae: 0.0149, rmse: 0.0216, mape: 0.1945
+step 2, acc: 0.5139, mae: 0.0147, rmse: 0.0214, mape: 0.1720
+average, acc: 0.5099, mae: 0.0148, rmse: 0.0215, mape: 0.1832
+Epoch 10: New best mae: 0.0148, Model saved.
+epoch 11, lr 0.001000, loss 1.3789, time 12.9 sec
+step 1, acc: 0.5241, mae: 0.0161, rmse: 0.0228, mape: 0.2653
+step 2, acc: 0.5212, mae: 0.0160, rmse: 0.0228, mape: 0.3299
+average, acc: 0.5226, mae: 0.0161, rmse: 0.0228, mape: 0.2976
+epoch 12, lr 0.001000, loss 1.3768, time 13.3 sec
+step 1, acc: 0.5050, mae: 0.0172, rmse: 0.0243, mape: 0.6675
+step 2, acc: 0.5149, mae: 0.0173, rmse: 0.0244, mape: 0.7165
+average, acc: 0.5100, mae: 0.0173, rmse: 0.0244, mape: 0.6920
+epoch 13, lr 0.001000, loss 1.3817, time 12.9 sec
+step 1, acc: 0.5076, mae: 0.0156, rmse: 0.0225, mape: 0.3245
+step 2, acc: 0.5086, mae: 0.0155, rmse: 0.0223, mape: 0.2853
+average, acc: 0.5081, mae: 0.0155, rmse: 0.0224, mape: 0.3049
+epoch 14, lr 0.001000, loss 1.3771, time 13.6 sec
+step 1, acc: 0.5139, mae: 0.0162, rmse: 0.0230, mape: 0.4505
+step 2, acc: 0.5286, mae: 0.0161, rmse: 0.0230, mape: 0.4501
+average, acc: 0.5213, mae: 0.0162, rmse: 0.0230, mape: 0.4503
+epoch 15, lr 0.001000, loss 1.3778, time 12.7 sec
+step 1, acc: 0.5190, mae: 0.0151, rmse: 0.0219, mape: 0.2912
+step 2, acc: 0.5297, mae: 0.0153, rmse: 0.0222, mape: 0.3042
+average, acc: 0.5243, mae: 0.0152, rmse: 0.0220, mape: 0.2977
+epoch 16, lr 0.001000, loss 1.3730, time 13.7 sec
+step 1, acc: 0.5076, mae: 0.0151, rmse: 0.0217, mape: -0.0198
+step 2, acc: 0.5190, mae: 0.0149, rmse: 0.0214, mape: -0.0759
+average, acc: 0.5133, mae: 0.0150, rmse: 0.0215, mape: -0.0479
+epoch 17, lr 0.001000, loss 1.3729, time 12.9 sec
+step 1, acc: 0.5202, mae: 0.0151, rmse: 0.0220, mape: 0.3587
+step 2, acc: 0.5101, mae: 0.0150, rmse: 0.0218, mape: 0.2906
+average, acc: 0.5151, mae: 0.0151, rmse: 0.0219, mape: 0.3246
+epoch 18, lr 0.001000, loss 1.3715, time 13.7 sec
+step 1, acc: 0.5107, mae: 0.0173, rmse: 0.0243, mape: 0.6920
+step 2, acc: 0.5137, mae: 0.0167, rmse: 0.0238, mape: 0.5903
+average, acc: 0.5122, mae: 0.0170, rmse: 0.0241, mape: 0.6412
+epoch 19, lr 0.001000, loss 1.3688, time 13.0 sec
+step 1, acc: 0.5214, mae: 0.0148, rmse: 0.0214, mape: 0.0998
+step 2, acc: 0.5139, mae: 0.0147, rmse: 0.0214, mape: 0.0784
+average, acc: 0.5176, mae: 0.0148, rmse: 0.0214, mape: 0.0891
+Epoch 19: New best mae: 0.0148, Model saved.
+epoch 20, lr 0.001000, loss 1.3666, time 13.9 sec
+step 1, acc: 0.5158, mae: 0.0157, rmse: 0.0224, mape: 0.1968
+step 2, acc: 0.5135, mae: 0.0156, rmse: 0.0224, mape: 0.1952
+average, acc: 0.5147, mae: 0.0157, rmse: 0.0224, mape: 0.1960
+epoch 21, lr 0.001000, loss 1.3701, time 13.0 sec
+step 1, acc: 0.5183, mae: 0.0152, rmse: 0.0216, mape: -0.1332
+step 2, acc: 0.5148, mae: 0.0151, rmse: 0.0216, mape: -0.1228
+average, acc: 0.5165, mae: 0.0151, rmse: 0.0216, mape: -0.1280
+epoch 22, lr 0.001000, loss 1.3737, time 13.8 sec
+step 1, acc: 0.5198, mae: 0.0149, rmse: 0.0215, mape: 0.1157
+step 2, acc: 0.5150, mae: 0.0149, rmse: 0.0215, mape: 0.0958
+average, acc: 0.5174, mae: 0.0149, rmse: 0.0215, mape: 0.1058
+epoch 23, lr 0.001000, loss 1.3851, time 12.9 sec
+step 1, acc: 0.5163, mae: 0.0153, rmse: 0.0216, mape: -0.2227
+step 2, acc: 0.5208, mae: 0.0153, rmse: 0.0216, mape: -0.1992
+average, acc: 0.5186, mae: 0.0153, rmse: 0.0216, mape: -0.2110
+epoch 24, lr 0.001000, loss 1.3829, time 13.6 sec
+step 1, acc: 0.5135, mae: 0.0151, rmse: 0.0216, mape: -0.0594
+step 2, acc: 0.5145, mae: 0.0150, rmse: 0.0215, mape: -0.0574
+average, acc: 0.5140, mae: 0.0150, rmse: 0.0215, mape: -0.0584
+epoch 25, lr 0.001000, loss 1.3810, time 12.9 sec
+step 1, acc: 0.5186, mae: 0.0147, rmse: 0.0215, mape: 0.2345
+step 2, acc: 0.5234, mae: 0.0148, rmse: 0.0215, mape: 0.2272
+average, acc: 0.5210, mae: 0.0148, rmse: 0.0215, mape: 0.2309
+Epoch 25: New best mae: 0.0148, Model saved.
+epoch 26, lr 0.001000, loss 1.3793, time 13.3 sec
+step 1, acc: 0.5127, mae: 0.0156, rmse: 0.0224, mape: 0.4038
+step 2, acc: 0.5103, mae: 0.0156, rmse: 0.0224, mape: 0.3864
+average, acc: 0.5115, mae: 0.0156, rmse: 0.0224, mape: 0.3951
+epoch 27, lr 0.001000, loss 1.3781, time 13.0 sec
+step 1, acc: 0.5074, mae: 0.0152, rmse: 0.0215, mape: -0.3187
+step 2, acc: 0.5095, mae: 0.0154, rmse: 0.0216, mape: -0.3601
+average, acc: 0.5084, mae: 0.0153, rmse: 0.0216, mape: -0.3394
+epoch 28, lr 0.001000, loss 1.3784, time 13.6 sec
+step 1, acc: 0.5058, mae: 0.0154, rmse: 0.0223, mape: 0.3112
+step 2, acc: 0.5055, mae: 0.0155, rmse: 0.0223, mape: 0.3325
+average, acc: 0.5057, mae: 0.0155, rmse: 0.0223, mape: 0.3218
+epoch 29, lr 0.001000, loss 1.3776, time 12.7 sec
+step 1, acc: 0.5124, mae: 0.0160, rmse: 0.0220, mape: -0.4978
+step 2, acc: 0.5108, mae: 0.0160, rmse: 0.0220, mape: -0.4917
+average, acc: 0.5116, mae: 0.0160, rmse: 0.0220, mape: -0.4947
+epoch 30, lr 0.001000, loss 1.3774, time 13.2 sec
+step 1, acc: 0.5105, mae: 0.0152, rmse: 0.0219, mape: 0.1916
+step 2, acc: 0.5110, mae: 0.0152, rmse: 0.0219, mape: 0.1752
+average, acc: 0.5108, mae: 0.0152, rmse: 0.0219, mape: 0.1834
+epoch 31, lr 0.001000, loss 1.3777, time 12.9 sec
+step 1, acc: 0.5125, mae: 0.0150, rmse: 0.0217, mape: 0.1566
+step 2, acc: 0.5150, mae: 0.0150, rmse: 0.0216, mape: 0.1577
+average, acc: 0.5138, mae: 0.0150, rmse: 0.0217, mape: 0.1572
+epoch 32, lr 0.001000, loss 1.3776, time 35.5 sec
+step 1, acc: 0.5099, mae: 0.0149, rmse: 0.0215, mape: -0.0308
+step 2, acc: 0.5168, mae: 0.0149, rmse: 0.0214, mape: -0.0821
+average, acc: 0.5133, mae: 0.0149, rmse: 0.0214, mape: -0.0564
+epoch 33, lr 0.001000, loss 1.3772, time 19.4 sec
+step 1, acc: 0.5131, mae: 0.0152, rmse: 0.0220, mape: 0.2102
+step 2, acc: 0.5141, mae: 0.0151, rmse: 0.0218, mape: 0.1929
+average, acc: 0.5136, mae: 0.0151, rmse: 0.0219, mape: 0.2015
+epoch 34, lr 0.001000, loss 1.3775, time 16.3 sec
+step 1, acc: 0.5147, mae: 0.0163, rmse: 0.0232, mape: 0.4310
+step 2, acc: 0.5156, mae: 0.0164, rmse: 0.0233, mape: 0.4458
+average, acc: 0.5152, mae: 0.0163, rmse: 0.0233, mape: 0.4384
+epoch 35, lr 0.001000, loss 1.3772, time 13.3 sec
+step 1, acc: 0.5090, mae: 0.0157, rmse: 0.0224, mape: 0.3040
+step 2, acc: 0.5135, mae: 0.0155, rmse: 0.0222, mape: 0.2904
+average, acc: 0.5112, mae: 0.0156, rmse: 0.0223, mape: 0.2972
+epoch 36, lr 0.001000, loss 1.3760, time 14.4 sec
+step 1, acc: 0.5170, mae: 0.0149, rmse: 0.0215, mape: 0.0900
+step 2, acc: 0.5107, mae: 0.0148, rmse: 0.0215, mape: 0.0581
+average, acc: 0.5138, mae: 0.0149, rmse: 0.0215, mape: 0.0741
+epoch 37, lr 0.001000, loss 1.3770, time 13.9 sec
+step 1, acc: 0.5111, mae: 0.0149, rmse: 0.0216, mape: 0.1543
+step 2, acc: 0.5165, mae: 0.0149, rmse: 0.0215, mape: 0.1315
+average, acc: 0.5138, mae: 0.0149, rmse: 0.0216, mape: 0.1429
+epoch 38, lr 0.001000, loss 1.3748, time 15.3 sec
+step 1, acc: 0.5090, mae: 0.0151, rmse: 0.0219, mape: 0.3221
+step 2, acc: 0.5203, mae: 0.0151, rmse: 0.0219, mape: 0.2942
+average, acc: 0.5146, mae: 0.0151, rmse: 0.0219, mape: 0.3082
+epoch 39, lr 0.001000, loss 1.3738, time 13.6 sec
+step 1, acc: 0.5250, mae: 0.0153, rmse: 0.0224, mape: 0.5274
+step 2, acc: 0.5237, mae: 0.0151, rmse: 0.0221, mape: 0.4563
+average, acc: 0.5243, mae: 0.0152, rmse: 0.0222, mape: 0.4919
+epoch 40, lr 0.001000, loss 1.3755, time 35.1 sec
+step 1, acc: 0.5022, mae: 0.0148, rmse: 0.0214, mape: 0.0101
+step 2, acc: 0.5128, mae: 0.0148, rmse: 0.0214, mape: 0.0102
+average, acc: 0.5075, mae: 0.0148, rmse: 0.0214, mape: 0.0102
+epoch 41, lr 0.000100, loss 1.3725, time 20.7 sec
+step 1, acc: 0.5059, mae: 0.0149, rmse: 0.0217, mape: 0.2313
+step 2, acc: 0.5184, mae: 0.0149, rmse: 0.0217, mape: 0.2148
+average, acc: 0.5122, mae: 0.0149, rmse: 0.0217, mape: 0.2231
+epoch 42, lr 0.000100, loss 1.3717, time 14.5 sec
+step 1, acc: 0.5094, mae: 0.0149, rmse: 0.0216, mape: 0.1220
+step 2, acc: 0.5207, mae: 0.0149, rmse: 0.0216, mape: 0.1206
+average, acc: 0.5150, mae: 0.0149, rmse: 0.0216, mape: 0.1213
+epoch 43, lr 0.000100, loss 1.3715, time 15.1 sec
+step 1, acc: 0.5084, mae: 0.0149, rmse: 0.0217, mape: 0.1578
+step 2, acc: 0.5207, mae: 0.0149, rmse: 0.0217, mape: 0.1566
+average, acc: 0.5145, mae: 0.0149, rmse: 0.0217, mape: 0.1572
+epoch 44, lr 0.000100, loss 1.3708, time 14.5 sec
+step 1, acc: 0.5076, mae: 0.0150, rmse: 0.0217, mape: 0.1539
+step 2, acc: 0.5196, mae: 0.0150, rmse: 0.0217, mape: 0.1562
+average, acc: 0.5136, mae: 0.0150, rmse: 0.0217, mape: 0.1550
+epoch 45, lr 0.000100, loss 1.3700, time 13.5 sec
+step 1, acc: 0.5085, mae: 0.0150, rmse: 0.0217, mape: 0.1184
+step 2, acc: 0.5200, mae: 0.0150, rmse: 0.0217, mape: 0.1271
+average, acc: 0.5142, mae: 0.0150, rmse: 0.0217, mape: 0.1228
+epoch 46, lr 0.000100, loss 1.3695, time 14.1 sec
+step 1, acc: 0.5117, mae: 0.0150, rmse: 0.0218, mape: 0.2152
+step 2, acc: 0.5223, mae: 0.0150, rmse: 0.0218, mape: 0.2173
+average, acc: 0.5170, mae: 0.0150, rmse: 0.0218, mape: 0.2163
+epoch 47, lr 0.000100, loss 1.3687, time 14.5 sec
+step 1, acc: 0.5114, mae: 0.0150, rmse: 0.0218, mape: 0.1915
+step 2, acc: 0.5222, mae: 0.0150, rmse: 0.0218, mape: 0.1921
+average, acc: 0.5168, mae: 0.0150, rmse: 0.0218, mape: 0.1918
+epoch 48, lr 0.000100, loss 1.3686, time 12.9 sec
+step 1, acc: 0.5132, mae: 0.0150, rmse: 0.0217, mape: 0.1613
+step 2, acc: 0.5225, mae: 0.0150, rmse: 0.0218, mape: 0.1585
+average, acc: 0.5179, mae: 0.0150, rmse: 0.0217, mape: 0.1599
+epoch 49, lr 0.000100, loss 1.3686, time 15.1 sec
+step 1, acc: 0.5150, mae: 0.0150, rmse: 0.0217, mape: 0.1683
+step 2, acc: 0.5231, mae: 0.0150, rmse: 0.0218, mape: 0.1691
+average, acc: 0.5190, mae: 0.0150, rmse: 0.0218, mape: 0.1687
+epoch 50, lr 0.000100, loss 1.3677, time 12.9 sec
+step 1, acc: 0.5157, mae: 0.0150, rmse: 0.0218, mape: 0.2276
+step 2, acc: 0.5249, mae: 0.0151, rmse: 0.0219, mape: 0.2148
+average, acc: 0.5203, mae: 0.0151, rmse: 0.0219, mape: 0.2212
+epoch 51, lr 0.000100, loss 1.3662, time 14.0 sec
+step 1, acc: 0.5148, mae: 0.0150, rmse: 0.0217, mape: 0.1427
+step 2, acc: 0.5215, mae: 0.0150, rmse: 0.0218, mape: 0.1352
+average, acc: 0.5182, mae: 0.0150, rmse: 0.0217, mape: 0.1390
+epoch 52, lr 0.000100, loss 1.3656, time 14.0 sec
+step 1, acc: 0.5183, mae: 0.0150, rmse: 0.0217, mape: 0.1755
+step 2, acc: 0.5248, mae: 0.0150, rmse: 0.0218, mape: 0.1547
+average, acc: 0.5215, mae: 0.0150, rmse: 0.0218, mape: 0.1651
+epoch 53, lr 0.000100, loss 1.3653, time 13.8 sec
+step 1, acc: 0.5227, mae: 0.0149, rmse: 0.0217, mape: 0.1264
+step 2, acc: 0.5262, mae: 0.0150, rmse: 0.0218, mape: 0.1130
+average, acc: 0.5244, mae: 0.0150, rmse: 0.0217, mape: 0.1197
+epoch 54, lr 0.000100, loss 1.3647, time 13.0 sec
+step 1, acc: 0.5224, mae: 0.0150, rmse: 0.0218, mape: 0.1670
+step 2, acc: 0.5263, mae: 0.0151, rmse: 0.0219, mape: 0.1480
+average, acc: 0.5244, mae: 0.0151, rmse: 0.0219, mape: 0.1575
+epoch 55, lr 0.000100, loss 1.3649, time 13.5 sec
+step 1, acc: 0.5241, mae: 0.0150, rmse: 0.0218, mape: 0.1338
+step 2, acc: 0.5267, mae: 0.0151, rmse: 0.0219, mape: 0.1232
+average, acc: 0.5254, mae: 0.0151, rmse: 0.0218, mape: 0.1285
+epoch 56, lr 0.000100, loss 1.3633, time 13.5 sec
+step 1, acc: 0.5296, mae: 0.0150, rmse: 0.0219, mape: 0.2431
+step 2, acc: 0.5322, mae: 0.0151, rmse: 0.0220, mape: 0.2193
+average, acc: 0.5309, mae: 0.0151, rmse: 0.0219, mape: 0.2312
+epoch 57, lr 0.000100, loss 1.3624, time 13.2 sec
+step 1, acc: 0.5205, mae: 0.0149, rmse: 0.0217, mape: 0.0742
+step 2, acc: 0.5270, mae: 0.0150, rmse: 0.0217, mape: 0.0699
+average, acc: 0.5238, mae: 0.0150, rmse: 0.0217, mape: 0.0720
+epoch 58, lr 0.000100, loss 1.3628, time 14.0 sec
+step 1, acc: 0.5216, mae: 0.0151, rmse: 0.0218, mape: 0.1152
+step 2, acc: 0.5279, mae: 0.0151, rmse: 0.0219, mape: 0.1039
+average, acc: 0.5247, mae: 0.0151, rmse: 0.0219, mape: 0.1095
+epoch 59, lr 0.000100, loss 1.3618, time 12.9 sec
+step 1, acc: 0.5242, mae: 0.0150, rmse: 0.0217, mape: 0.0294
+step 2, acc: 0.5269, mae: 0.0151, rmse: 0.0218, mape: 0.0289
+average, acc: 0.5256, mae: 0.0151, rmse: 0.0218, mape: 0.0292
+epoch 60, lr 0.000100, loss 1.3604, time 14.3 sec
+step 1, acc: 0.5280, mae: 0.0150, rmse: 0.0218, mape: 0.1367
+step 2, acc: 0.5302, mae: 0.0151, rmse: 0.0219, mape: 0.1166
+average, acc: 0.5291, mae: 0.0150, rmse: 0.0218, mape: 0.1267
+epoch 61, lr 0.000100, loss 1.3599, time 14.9 sec
+step 1, acc: 0.5256, mae: 0.0151, rmse: 0.0219, mape: 0.1300
+step 2, acc: 0.5325, mae: 0.0151, rmse: 0.0220, mape: 0.1159
+average, acc: 0.5290, mae: 0.0151, rmse: 0.0219, mape: 0.1230
+epoch 62, lr 0.000010, loss 1.3582, time 13.1 sec
+step 1, acc: 0.5265, mae: 0.0151, rmse: 0.0219, mape: 0.1287
+step 2, acc: 0.5322, mae: 0.0151, rmse: 0.0220, mape: 0.1156
+average, acc: 0.5294, mae: 0.0151, rmse: 0.0219, mape: 0.1222
+epoch 63, lr 0.000010, loss 1.3583, time 15.1 sec
+step 1, acc: 0.5261, mae: 0.0151, rmse: 0.0219, mape: 0.1152
+step 2, acc: 0.5325, mae: 0.0151, rmse: 0.0219, mape: 0.1039
+average, acc: 0.5293, mae: 0.0151, rmse: 0.0219, mape: 0.1096
+epoch 64, lr 0.000010, loss 1.3579, time 13.9 sec
+step 1, acc: 0.5268, mae: 0.0150, rmse: 0.0218, mape: 0.1077
+step 2, acc: 0.5324, mae: 0.0151, rmse: 0.0219, mape: 0.0973
+average, acc: 0.5296, mae: 0.0151, rmse: 0.0219, mape: 0.1025
+epoch 65, lr 0.000010, loss 1.3577, time 13.9 sec
+step 1, acc: 0.5264, mae: 0.0151, rmse: 0.0218, mape: 0.1050
+step 2, acc: 0.5325, mae: 0.0151, rmse: 0.0219, mape: 0.0955
+average, acc: 0.5295, mae: 0.0151, rmse: 0.0219, mape: 0.1003
+epoch 66, lr 0.000010, loss 1.3586, time 12.9 sec
+step 1, acc: 0.5260, mae: 0.0151, rmse: 0.0219, mape: 0.1061
+step 2, acc: 0.5331, mae: 0.0151, rmse: 0.0219, mape: 0.0968
+average, acc: 0.5295, mae: 0.0151, rmse: 0.0219, mape: 0.1014
+epoch 67, lr 0.000010, loss 1.3577, time 37.3 sec
+step 1, acc: 0.5268, mae: 0.0151, rmse: 0.0219, mape: 0.1126
+step 2, acc: 0.5337, mae: 0.0151, rmse: 0.0220, mape: 0.1025
+average, acc: 0.5302, mae: 0.0151, rmse: 0.0219, mape: 0.1075
+epoch 68, lr 0.000010, loss 1.3584, time 20.8 sec
+step 1, acc: 0.5262, mae: 0.0151, rmse: 0.0219, mape: 0.1057
+step 2, acc: 0.5334, mae: 0.0151, rmse: 0.0219, mape: 0.0970
+average, acc: 0.5298, mae: 0.0151, rmse: 0.0219, mape: 0.1014
+epoch 69, lr 0.000010, loss 1.3582, time 14.8 sec
+step 1, acc: 0.5265, mae: 0.0151, rmse: 0.0219, mape: 0.1082
+step 2, acc: 0.5331, mae: 0.0151, rmse: 0.0219, mape: 0.0989
+average, acc: 0.5298, mae: 0.0151, rmse: 0.0219, mape: 0.1036
+epoch 70, lr 0.000010, loss 1.3580, time 14.0 sec
+step 1, acc: 0.5265, mae: 0.0151, rmse: 0.0218, mape: 0.1034
+step 2, acc: 0.5329, mae: 0.0151, rmse: 0.0219, mape: 0.0945
+average, acc: 0.5297, mae: 0.0151, rmse: 0.0219, mape: 0.0989
+epoch 71, lr 0.000010, loss 1.3576, time 14.1 sec
+step 1, acc: 0.5262, mae: 0.0151, rmse: 0.0219, mape: 0.1089
+step 2, acc: 0.5327, mae: 0.0151, rmse: 0.0219, mape: 0.0997
+average, acc: 0.5294, mae: 0.0151, rmse: 0.0219, mape: 0.1043
+epoch 72, lr 0.000010, loss 1.3579, time 14.5 sec
+step 1, acc: 0.5261, mae: 0.0151, rmse: 0.0218, mape: 0.1016
+step 2, acc: 0.5332, mae: 0.0151, rmse: 0.0219, mape: 0.0934
+average, acc: 0.5297, mae: 0.0151, rmse: 0.0219, mape: 0.0975
+epoch 73, lr 0.000010, loss 1.3571, time 15.0 sec
+step 1, acc: 0.5265, mae: 0.0150, rmse: 0.0218, mape: 0.1013
+step 2, acc: 0.5333, mae: 0.0151, rmse: 0.0219, mape: 0.0927
+average, acc: 0.5299, mae: 0.0151, rmse: 0.0219, mape: 0.0970
+epoch 74, lr 0.000010, loss 1.3571, time 13.0 sec
+step 1, acc: 0.5271, mae: 0.0150, rmse: 0.0218, mape: 0.0987
+step 2, acc: 0.5331, mae: 0.0151, rmse: 0.0219, mape: 0.0894
+average, acc: 0.5301, mae: 0.0151, rmse: 0.0219, mape: 0.0941
+epoch 75, lr 0.000010, loss 1.3570, time 15.0 sec
+step 1, acc: 0.5267, mae: 0.0150, rmse: 0.0218, mape: 0.0858
+step 2, acc: 0.5335, mae: 0.0151, rmse: 0.0219, mape: 0.0764
+average, acc: 0.5301, mae: 0.0151, rmse: 0.0219, mape: 0.0811
+epoch 76, lr 0.000010, loss 1.3570, time 13.0 sec
+step 1, acc: 0.5263, mae: 0.0150, rmse: 0.0218, mape: 0.0948
+step 2, acc: 0.5331, mae: 0.0151, rmse: 0.0219, mape: 0.0848
+average, acc: 0.5297, mae: 0.0151, rmse: 0.0219, mape: 0.0898
+epoch 77, lr 0.000010, loss 1.3565, time 14.8 sec
+step 1, acc: 0.5266, mae: 0.0151, rmse: 0.0218, mape: 0.1003
+step 2, acc: 0.5339, mae: 0.0151, rmse: 0.0219, mape: 0.0890
+average, acc: 0.5302, mae: 0.0151, rmse: 0.0219, mape: 0.0947
+epoch 78, lr 0.000010, loss 1.3566, time 12.9 sec
+step 1, acc: 0.5264, mae: 0.0151, rmse: 0.0219, mape: 0.1003
+step 2, acc: 0.5344, mae: 0.0151, rmse: 0.0220, mape: 0.0878
+average, acc: 0.5304, mae: 0.0151, rmse: 0.0219, mape: 0.0941
+epoch 79, lr 0.000010, loss 1.3571, time 14.4 sec
+step 1, acc: 0.5265, mae: 0.0151, rmse: 0.0218, mape: 0.0948
+step 2, acc: 0.5341, mae: 0.0151, rmse: 0.0219, mape: 0.0827
+average, acc: 0.5303, mae: 0.0151, rmse: 0.0219, mape: 0.0887
+epoch 80, lr 0.000010, loss 1.3563, time 12.9 sec
+step 1, acc: 0.5267, mae: 0.0151, rmse: 0.0219, mape: 0.0955
+step 2, acc: 0.5341, mae: 0.0151, rmse: 0.0220, mape: 0.0838
+average, acc: 0.5304, mae: 0.0151, rmse: 0.0219, mape: 0.0896
+epoch 81, lr 0.000010, loss 1.3568, time 13.2 sec
+step 1, acc: 0.5269, mae: 0.0151, rmse: 0.0219, mape: 0.0986
+step 2, acc: 0.5334, mae: 0.0151, rmse: 0.0219, mape: 0.0856
+average, acc: 0.5301, mae: 0.0151, rmse: 0.0219, mape: 0.0921
+epoch 82, lr 0.000010, loss 1.3563, time 14.3 sec
+step 1, acc: 0.5265, mae: 0.0151, rmse: 0.0219, mape: 0.1033
+step 2, acc: 0.5339, mae: 0.0151, rmse: 0.0220, mape: 0.0909
+average, acc: 0.5302, mae: 0.0151, rmse: 0.0219, mape: 0.0971
+epoch 83, lr 0.000002, loss 1.3562, time 12.9 sec
+step 1, acc: 0.5265, mae: 0.0151, rmse: 0.0219, mape: 0.1013
+step 2, acc: 0.5338, mae: 0.0151, rmse: 0.0220, mape: 0.0890
+average, acc: 0.5301, mae: 0.0151, rmse: 0.0219, mape: 0.0952
+epoch 84, lr 0.000002, loss 1.3562, time 14.3 sec
+step 1, acc: 0.5266, mae: 0.0151, rmse: 0.0219, mape: 0.0977
+step 2, acc: 0.5337, mae: 0.0151, rmse: 0.0220, mape: 0.0856
+average, acc: 0.5301, mae: 0.0151, rmse: 0.0219, mape: 0.0916
+epoch 85, lr 0.000002, loss 1.3569, time 12.9 sec
+step 1, acc: 0.5263, mae: 0.0151, rmse: 0.0219, mape: 0.0983
+step 2, acc: 0.5333, mae: 0.0151, rmse: 0.0220, mape: 0.0862
+average, acc: 0.5298, mae: 0.0151, rmse: 0.0219, mape: 0.0922
+epoch 86, lr 0.000002, loss 1.3565, time 14.2 sec
+step 1, acc: 0.5264, mae: 0.0151, rmse: 0.0219, mape: 0.0954
+step 2, acc: 0.5332, mae: 0.0151, rmse: 0.0220, mape: 0.0835
+average, acc: 0.5298, mae: 0.0151, rmse: 0.0219, mape: 0.0895
+epoch 87, lr 0.000002, loss 1.3565, time 12.9 sec
+step 1, acc: 0.5262, mae: 0.0151, rmse: 0.0218, mape: 0.0928
+step 2, acc: 0.5333, mae: 0.0151, rmse: 0.0219, mape: 0.0809
+average, acc: 0.5298, mae: 0.0151, rmse: 0.0219, mape: 0.0868
+epoch 88, lr 0.000002, loss 1.3563, time 13.7 sec
+step 1, acc: 0.5262, mae: 0.0151, rmse: 0.0219, mape: 0.0937
+step 2, acc: 0.5335, mae: 0.0151, rmse: 0.0220, mape: 0.0819
+average, acc: 0.5298, mae: 0.0151, rmse: 0.0219, mape: 0.0878
+epoch 89, lr 0.000002, loss 1.3568, time 13.0 sec
+step 1, acc: 0.5263, mae: 0.0151, rmse: 0.0219, mape: 0.0946
+step 2, acc: 0.5331, mae: 0.0151, rmse: 0.0220, mape: 0.0827
+average, acc: 0.5297, mae: 0.0151, rmse: 0.0219, mape: 0.0887
+epoch 90, lr 0.000002, loss 1.3557, time 13.6 sec
+step 1, acc: 0.5264, mae: 0.0151, rmse: 0.0219, mape: 0.0936
+step 2, acc: 0.5335, mae: 0.0151, rmse: 0.0219, mape: 0.0816
+average, acc: 0.5299, mae: 0.0151, rmse: 0.0219, mape: 0.0876
+epoch 91, lr 0.000002, loss 1.3561, time 12.9 sec
+step 1, acc: 0.5267, mae: 0.0151, rmse: 0.0218, mape: 0.0921
+step 2, acc: 0.5334, mae: 0.0151, rmse: 0.0219, mape: 0.0802
+average, acc: 0.5300, mae: 0.0151, rmse: 0.0219, mape: 0.0862
+epoch 92, lr 0.000002, loss 1.3571, time 13.5 sec
+step 1, acc: 0.5265, mae: 0.0151, rmse: 0.0218, mape: 0.0912
+step 2, acc: 0.5335, mae: 0.0151, rmse: 0.0219, mape: 0.0793
+average, acc: 0.5300, mae: 0.0151, rmse: 0.0219, mape: 0.0852
+epoch 93, lr 0.000002, loss 1.3571, time 13.1 sec
+step 1, acc: 0.5268, mae: 0.0151, rmse: 0.0219, mape: 0.0940
+step 2, acc: 0.5333, mae: 0.0151, rmse: 0.0220, mape: 0.0819
+average, acc: 0.5300, mae: 0.0151, rmse: 0.0219, mape: 0.0879
+epoch 94, lr 0.000002, loss 1.3561, time 13.7 sec
+step 1, acc: 0.5269, mae: 0.0151, rmse: 0.0218, mape: 0.0908
+step 2, acc: 0.5333, mae: 0.0151, rmse: 0.0219, mape: 0.0784
+average, acc: 0.5301, mae: 0.0151, rmse: 0.0219, mape: 0.0846
+epoch 95, lr 0.000002, loss 1.3569, time 13.1 sec
+step 1, acc: 0.5267, mae: 0.0151, rmse: 0.0218, mape: 0.0925
+step 2, acc: 0.5331, mae: 0.0151, rmse: 0.0219, mape: 0.0799
+average, acc: 0.5299, mae: 0.0151, rmse: 0.0219, mape: 0.0862
+epoch 96, lr 0.000002, loss 1.3555, time 14.1 sec
+step 1, acc: 0.5271, mae: 0.0151, rmse: 0.0218, mape: 0.0923
+step 2, acc: 0.5331, mae: 0.0151, rmse: 0.0219, mape: 0.0798
+average, acc: 0.5301, mae: 0.0151, rmse: 0.0219, mape: 0.0860
+epoch 97, lr 0.000002, loss 1.3565, time 13.6 sec
+step 1, acc: 0.5267, mae: 0.0151, rmse: 0.0218, mape: 0.0915
+step 2, acc: 0.5334, mae: 0.0151, rmse: 0.0219, mape: 0.0788
+average, acc: 0.5300, mae: 0.0151, rmse: 0.0219, mape: 0.0852
+epoch 98, lr 0.000002, loss 1.3568, time 13.2 sec
+step 1, acc: 0.5269, mae: 0.0151, rmse: 0.0218, mape: 0.0926
+step 2, acc: 0.5333, mae: 0.0151, rmse: 0.0219, mape: 0.0798
+average, acc: 0.5301, mae: 0.0151, rmse: 0.0219, mape: 0.0862
+epoch 99, lr 0.000002, loss 1.3557, time 14.4 sec
+step 1, acc: 0.5267, mae: 0.0151, rmse: 0.0219, mape: 0.0934
+step 2, acc: 0.5330, mae: 0.0151, rmse: 0.0219, mape: 0.0807
+average, acc: 0.5298, mae: 0.0151, rmse: 0.0219, mape: 0.0871
+epoch 100, lr 0.000002, loss 1.3563, time 13.4 sec
+step 1, acc: 0.5267, mae: 0.0151, rmse: 0.0218, mape: 0.0900
+step 2, acc: 0.5330, mae: 0.0151, rmse: 0.0219, mape: 0.0777
+average, acc: 0.5299, mae: 0.0151, rmse: 0.0219, mape: 0.0839
+training end....
+testing begin....
+Total parameters: 976219
+step 1, acc: 0.5391, mae: 0.0145, rmse: 0.0207, mape: 0.1453
+step 2, acc: 0.5337, mae: 0.0144, rmse: 0.0206, mape: 0.1446
+average, acc: 0.5364, mae: 0.0145, rmse: 0.0207, mape: 0.1450
+testing end....
