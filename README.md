@@ -1,5 +1,7 @@
 # Stockformer Data File Explanation and Execution Methods
 
+[中文版本](README中文版.md)
+
 ## "Stockformer" Code Overview
 This paper, titled "Research on a Stock Selection Model Based on Wavelet Transform and Multi-Task Self-Attention Network of Price and Volume Factors," is currently participating in the 2024 (10th) National College Students’ Statistical Modeling Contest.
 
