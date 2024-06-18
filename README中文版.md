@@ -2,8 +2,10 @@
 
 [English Version](README.md)
 
-## "Stockformer "代码概述
-这是题为 "基于小波变换和多任务自注意力网络的量价因子选股模型的研究 "的论文，该论文目前正在参加2024年(第十届)全国大学生统计建模大赛
+## “Stockformer”代码概览
+本文题为“Stockformer：基于小波变换和多任务自注意力网络的价格-量因子股票选择模型”，目前正在《Expert Systems with Applications》期刊审稿中。您可以在SSRN阅读预印本原文：[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4648073](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4648073)。
+
+通过此链接，读者可以访问提交的完整论文文本，从而在出版前了解详细的方法论和研究发现。
 
 
 ## 原始数据集和划分后的子数据集
@@ -92,3 +94,11 @@
 ```sh
 python Multitask_Stockformer_models.py --config Multitask_Stock.conf
 ```
+
+## 引用
+
+如果您在研究中使用了此模型或数据集，请按以下方式引用我们的论文：
+
+Ma, Bohan; Xue, Yushan; Lu, Yuan; Chen, Jing. "Stockformer: A Price-Volume Factor Stock Selection Model Based on Wavelet Transform and Multi-Task Self-Attention Networks," June 17, 2024. Available at SSRN: [https://ssrn.com/abstract=4648073](https://ssrn.com/abstract=4648073) or DOI: [10.2139/ssrn.4648073](http://dx.doi.org/10.2139/ssrn.4648073)
+
+此引用提供了所有必要的细节，如完整的作者名单、论文标题、发布日期和直接链接到论文的链接，便于访问和验证。

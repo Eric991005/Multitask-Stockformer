@@ -3,7 +3,10 @@
 [中文版本](README中文版.md)
 
 ## "Stockformer" Code Overview
-This paper, titled "Research on a Stock Selection Model Based on Wavelet Transform and Multi-Task Self-Attention Network of Price and Volume Factors," is currently participating in the 2024 (10th) National College Students’ Statistical Modeling Contest.
+This paper, titled "Stockformer: A Price-Volume Factor Stock Selection Model Based on Wavelet Transform and Multi-Task Self-Attention Networks," is currently under review at Expert Systems with Applications. You can read the preprint version of the paper on SSRN: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4648073](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4648073).
+
+This link provides access to the full text of the paper as submitted, allowing readers to explore the detailed methodology and findings prior to publication.
+
 
 ## Original Dataset and Sub-Datasets After Partition
 Due to the large size of both the original data (which contains 360 price and volume factors) and the processed data (which also contains 360 factors), the author has stored them on a cloud drive for readers to use. The folder `Stock_CN_2018-03-01_2024-03-01` contains the original data, while other folders hold the processed sub-datasets.
@@ -88,3 +91,11 @@ Execute the following command in the terminal to run the model:
 ```sh
 python Multitask_Stockformer_models.py --config Multitask_Stock.conf
 ```
+
+## Citation
+
+If you use this model or the dataset in your research, please cite our paper as follows:
+
+Ma, Bohan; Xue, Yushan; Lu, Yuan; Chen, Jing. "Stockformer: A Price-Volume Factor Stock Selection Model Based on Wavelet Transform and Multi-Task Self-Attention Networks," June 17, 2024. Available at SSRN: [https://ssrn.com/abstract=4648073](https://ssrn.com/abstract=4648073) or DOI: [10.2139/ssrn.4648073](http://dx.doi.org/10.2139/ssrn.4648073)
+
+This citation provides all the necessary details such as the full list of authors, the title of the paper, the publication date, and direct links to the paper for easy access and verification.
