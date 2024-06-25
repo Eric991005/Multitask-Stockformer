@@ -35,11 +35,19 @@
 
 
 ## 文件描述
-- `data_processing_script`：原始数据的数据清洗，上传的数据已经做好所有内容的生成。
+- `data_processing_script`：原始数据的数据清洗。上传的数据已完成所有内容的生成。
 
-  - `data_Interception.py`：原始数据集划分成各个子数据集。
-  - `Stockformer_data_preprocessing_script.py`：将子数据集中的内容生成模型需要的输入。
-  - `results_data_processing.py`：将模型生成的结果处理为后续需要的结果输出，以便于回测和结果展示。
+  - `stockformer_input_data_processing`：生成Stockformer输入数据的数据处理脚本。
+    - `data_Interception.py`：将原始数据集切分为不同的子集。
+    - `Stockformer_data_preprocessing_script.py`：从子集内容生成模型所需的输入。
+    - `results_data_processing.py`：将模型生成的结果处理成后续回测和结果展示所需的输出。
+
+  - `volume_and_price_factor_construction`：量价因子的构建。
+    - `1_stock_data_consolidation.ipynb`：整合原始数据。
+    - `2_data_preprocessing.ipynb`：预处理整合后的数据。
+    - `3_qlib_factor_construction.ipynb`：构建因子。
+    - `4_neutralization.ipynb`：因子中性化。
+    - `5_factor_verification.ipynb`：验证因子。
 
 - `Stockformermodel`
 
